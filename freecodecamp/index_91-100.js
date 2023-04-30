@@ -100,3 +100,13 @@ const shirtValue = testObj.shirt;
 // myDog.name = "Happy Coder";
 
 //99
+// const myDog = {
+//   "name": "Happy Coder",
+//   "legs": 4,
+//   "tails": 1,
+//   "friends": ["freeCodeCamp Campers"]
+// };
+
+// myDog.bark = "woof";
+
+//100
